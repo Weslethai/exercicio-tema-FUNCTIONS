@@ -25,7 +25,11 @@ Crie o modelo lógico do exercício.
 Crie 200 registros diferentes de alunos;
 
 Crie 25 tipos de cursos de uma universidade.
+
 **PRÉ-REQUISITOS**
+
 para a realização do exercicio foi utilizado do MYSQL WOrkbench
+
 **NOME-RA**
+
 Wesley Matheus da silva - 236896
