@@ -1,6 +1,6 @@
 # exercicio-tema-FUNCTIONS
-** Descrição da atividade** 
-SIGA OS ITENS ABAIXO PARA REALIZAÇÃO DA ATIVIDADE:
+# Descrição da atividade
+**SIGA OS ITENS ABAIXO PARA REALIZAÇÃO DA ATIVIDADE**:
 
 Crie um banco de dados para armazenar os dados dos alunos e cursos de uma universidade;
 
@@ -25,7 +25,7 @@ Crie o modelo lógico do exercício.
 Crie 200 registros diferentes de alunos;
 
 Crie 25 tipos de cursos de uma universidade.
-** PRÉ-REQUISITOS**
+**PRÉ-REQUISITOS**
 para a realização do exercicio foi utilizado do MYSQL WOrkbench
-** NOME-RA**
+**NOME-RA**
 Wesley Matheus da silva - 236896
